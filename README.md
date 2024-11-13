@@ -2,10 +2,10 @@
 
 
 ## Implementation
-
+- enemy can be killed
 ## References
 
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Anna Banks
